@@ -1,11 +1,11 @@
 
 # Hope Of Chaos
-<img src="Assets/Banner - GitHub.png" width = "100%">
+<img src="Banner - GitHub.png" width = "100%">
 Se aventure no mundo de *Hope Of Chaos* em um jogo interativo para derrotar o vilão e recuperar o medalhão
 
 
 ## Sobre este jogo
-<img src="Assets/Hope of chaos Logo.png" width = "25%"> <a href= "https://www.youtube.com/watch?v=40mWkczzRUk"><img src="Assets/Trailer - GitHub.png" width="40%"></a><br>
+<img src="Hope of chaos Logo.png" width = "25%"> <a href= "https://www.youtube.com/watch?v=40mWkczzRUk"><img src="Assets/Trailer - GitHub.png" width="40%"></a><br>
 
 > Já pensou acordar e não saber se está no passado ou futuro ? Você olha ao redor e tudo está diferente. O que será que aconteceu ? 
 
