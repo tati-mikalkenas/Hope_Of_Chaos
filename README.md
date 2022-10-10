@@ -1,5 +1,5 @@
 # Hope Of Chaos
- <h3><a href="https://tati-mikalkenas.github.io/Hope_Of_Chaos/">Clique aqui para jogar:</a></h3> 
+ <h3><a href="https://guidev1.github.io/Hope_of_chaos/">Clique aqui para jogar:</a></h3> 
  <br><br>
 <img src="https://cdn.discordapp.com/attachments/773372240686350356/1028896695804776508/Banner_-_GitHub.png" width = "100%">
 Se aventure no mundo de *Hope Of Chaos* em um jogo interativo para derrotar o vilão e recuperar o medalhão
